@@ -1,0 +1,7 @@
+numpy<2
+matplotlib
+seaborn
+scikit-learn
+torch
+torchvision
+ipykernel
