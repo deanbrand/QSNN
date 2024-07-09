@@ -3,4 +3,4 @@ Quantum Spiking Neural Networks using Quantum Leaky Integrate-and-Fire neurons. 
 
 To use, install requirements with
 `pip install -r requirements.txt`
-and run any of the Jupyter Notebooks.
+and run any of the Jupyter Notebooks. The main notebook is `alpha_mnist.ipynb`, while the rest are derivatives for the CNNs and other datasets.
